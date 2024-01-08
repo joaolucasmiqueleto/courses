@@ -1,0 +1,6 @@
+# inserting to ignore all the official course material
+feature-engineering-for-machine-learning-main/
+presentations/
+
+# Mac files
+.DS_Store
