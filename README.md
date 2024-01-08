@@ -1,2 +1,5 @@
-# courses
-This repository contains materials on various courses comprising data science, machine learning, probability and statistics, etc.
+# Courses
+This repository contains materials about various courses related to data science, machine learning, statistics, and related topics. Specific information for each course can be found in their respective folders in README.md. Below is a brief description of each course.
+
+## [Feature Engineering for Machine Learning](https://github.com/joaolucasmiqueleto/courses/tree/main/feature-engineering-for-machine-learning)
+The 'Feature Engineering for Machine Learning' course is offered by Dr. Soledad Galli and can be accessed on the following page: [Feature Engineering for Machine Learning - Soledad Galli](https://www.trainindata.com/p/feature-engineering-for-machine-learning). The course includes a repository containing class notebooks, which are available on Galli's GitHub. The repository can be found at the following link: [Repo for the Course](https://github.com/solegalli/feature-engineering-for-machine-learning). My goal with this repository is to transcribe my class notes into notebooks. It does not include any innovative content and serves as a direct transcription of the original classes, which can be found at the aforementioned link.
