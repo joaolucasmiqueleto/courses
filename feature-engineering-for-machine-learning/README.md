@@ -7,11 +7,11 @@ Feature Engineering is an extremely important task in data science and machine l
 
 ## Table of Contents
 
-1. **Introduction: Variable Types**
-	1. Numerical Variables: Discrete and continuous
-	2. Categorical Variables: Nominal and Ordinal
-	3. Datetime variables
-	4. Mixed variables: strings and numbers
+1. [**Introduction: Variable Types**](https://github.com/joaolucasmiqueleto/courses/tree/main/feature-engineering-for-machine-learning/section-03-types-of-variables)
+	1. [Numerical Variables: Discrete and continuous](https://github.com/joaolucasmiqueleto/courses/blob/main/feature-engineering-for-machine-learning/section-03-types-of-variables/01__numerical_variables.ipynb)
+	2. [Categorical Variables: Nominal and Ordinal](https://github.com/joaolucasmiqueleto/courses/blob/main/feature-engineering-for-machine-learning/section-03-types-of-variables/02__categorical_variables.ipynb)
+	3. [Datetime variables](https://github.com/joaolucasmiqueleto/courses/blob/main/feature-engineering-for-machine-learning/section-03-types-of-variables/03__date_time_variables.ipynb)
+	4. [Mixed variables: strings and numbers](https://github.com/joaolucasmiqueleto/courses/blob/main/feature-engineering-for-machine-learning/section-03-types-of-variables/04__mixed_variables.ipynb)
 
 2. **Variable Characteristics**
 	1. Missing Data 
